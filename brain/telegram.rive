@@ -1,0 +1,16 @@
+// Learn stuff about our users.
+
++ (start)
+- Olá, estou aqui para tirar sua dúvidas sobre Linux! \o/
+
++ [*] (compactar|compacto|comprimo|comprimir) [*]
+- Você pode fazer isso usando o *tar* com:\n
+^ ``` tar cf archive.tar file1 [...]```
+^ ou criar um arquivo *comprimido* (usando *bzip2*):\n
+^ ``` tar cjf archive.tar.bz2 file1 [...]```\n
+^ ou com o algoritmo *xz* ao invés de *bzip2*, trocando o `j` pelo `J`:\n
+^ ``` tar cJf archive.tar.xz file1 [...]```\n
+
++ [*] (extraio|extrair|descompactar|descomprimir) [*]
+- com o tar
+  
