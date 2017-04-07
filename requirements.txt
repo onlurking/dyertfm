@@ -1,0 +1,2 @@
+telepot==10.5
+rivescript==1.14.6
