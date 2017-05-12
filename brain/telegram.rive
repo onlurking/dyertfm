@@ -1,4 +1,3 @@
-// Learn stuff about our users.
 
 + (start)
 - Olá, estou aqui para tirar sua dúvidas sobre Linux! \o/
@@ -11,6 +10,14 @@
 ^ ou com o algoritmo *xz* ao invés de *bzip2*, trocando o `j` pelo `J`:\n
 ^ ``` tar cJf archive.tar.xz file1 [...]```\n
 
-+ [*] (extraio|extrair|descompactar|descomprimir) [*]
-- com o tar
-  
++ [*] (extraio|extrair|descompactar|descompacto|descomprimir) [*]
+- Você pode fazer isso usando o *tar* utilizando:\n
+^ ``` tar -xvf archive.tar```
+
++ [*] (criar|crio|faco|fazer) [*] (diretorio|pasta) [*]
+- Você pode fazer isso usando o comando *tar* com:\n
+^ ``` mkdir nomedapasta```
+
++ [*] (vejo) [*] (ip|rede) [*]
+- Você pode fazer isso usando o comando *tar* com:\n
+^ ``` mkdir nomedapasta`
